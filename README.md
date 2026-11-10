@@ -1,57 +1,57 @@
-# Hi, I'm Sreeja Jonnala 👋
+# Sreeja Jonnala
 
-### Aspiring Software Developer | React | Python | Flask | SQL
+### Cybersecurity & Python Developer | Aspiring SOC Analyst
 
-I enjoy building practical applications, learning new technologies,
-and solving problems through programming.
+I build practical projects that combine software development, data analysis, and cybersecurity. I’m developing my Python and security skills through hands-on work and continuous learning.
 
 ## About Me
-- 🌱 Currently learning AI/ML and backend development
-- 💻 Interested in Software Developer and Python Developer roles
-- 🚀 Building projects using React, Python, Flask and SQL
-- 📍 India
+
+- Focused on cybersecurity, Python development, and security operations
+- Building projects with Python, Flask, React, SQL, and MySQL
+- Learning AI/ML and backend development
+- Interested in entry-level SOC Analyst and Python Developer opportunities
+- Based in India
 
 ## Technical Skills
 
-- Languages: Python, JavaScript, SQL
-- Frontend: React, HTML, CSS
-- Backend: Flask
-- Database: MySQL
-- Data Analysis: Pandas, NumPy, Matplotlib
-- Tools: Git, GitHub, VS Code
+- **Languages:** Python, JavaScript, SQL
+- **Web:** React, Flask, HTML, CSS
+- **Data:** Pandas, NumPy, Matplotlib
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
 
 ## Featured Projects
 
-### 🛒 SmartCart
-Python Flask e-commerce application with admin and user
-workflows, product management, cart, checkout and MySQL.
+### SmartCart
+A Flask e-commerce application with product management, shopping cart, checkout, and separate admin and user workflows, backed by MySQL.
 
 [View SmartCart](https://github.com/Jonnalasreeja21/SmartCart)
 
-### 📊 E-Commerce Sales Intelligence System
-Python project for sales data analysis and visualization.
+### E-Commerce Sales Intelligence System
+A Python project for analyzing e-commerce sales data and presenting insights through visualizations.
 
-[View Project](https://github.com/Jonnalasreeja21/E-Commerce-Sales-Intelligence-System)
+[View project](https://github.com/Jonnalasreeja21/E-Commerce-Sales-Intelligence-System)
 
-### 🗃️ CrimeLens
-MySQL-based crime management database project.
+### CrimeLens
+A MySQL project focused on structuring and managing crime-related data.
 
-[View Project](https://github.com/Jonnalasreeja21/CrimeLens-SQL-Project)
+[View project](https://github.com/Jonnalasreeja21/CrimeLens-SQL-Project)
 
-### 🚗 LIDS – CAN Bus Intrusion Detection System
-A project focused on CAN bus intrusion detection.
+### LIDS: CAN Bus Intrusion Detection System
+A project exploring intrusion detection for in-vehicle CAN bus networks.
 
-[View Project](https://github.com/Jonnalasreeja21/LIDS-CAN-Bus-Intrusion-Detection-System)
+[View project](https://github.com/Jonnalasreeja21/LIDS-CAN-Bus-Intrusion-Detection-System)
 
-## Learning Repositories
+## Learning
 
 - [Python Learning](https://github.com/Jonnalasreeja21/Python-learning-)
 - [Cybersecurity Learning](https://github.com/Jonnalasreeja21/CyberSecurity-Learning)
 
 ## Contact
 
-- GitHub: https://github.com/Jonnalasreeja21
-- Email: sreejajonnala7@gmail.com
+- [GitHub](https://github.com/Jonnalasreeja21)
+- [Email](mailto:sreejajonnala7@gmail.com)
 
 ---
-*Learning, building, and improving one project at a time.*
+
+*Learning continuously and building through hands-on projects.*
