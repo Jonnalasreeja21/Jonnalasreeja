@@ -37,6 +37,11 @@ A MySQL project focused on structuring and managing crime-related data.
 
 [View project](https://github.com/Jonnalasreeja21/CrimeLens-SQL-Project)
 
+### VoicEra (fork)
+Open-source, self-hosted infrastructure for real-time voice AI, with interchangeable speech, language-model, and telephony providers.
+
+[View VoicEra](https://github.com/Jonnalasreeja21/VoicEra)
+
 ### LIDS: CAN Bus Intrusion Detection System
 A project exploring intrusion detection for in-vehicle CAN bus networks.
 
